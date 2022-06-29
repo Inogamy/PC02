@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763946230726",
+    "project_id": "dpapc02",
+    "storage_bucket": "dpapc02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763946230726:android:17778765a2eb31cf7608c7",
+        "android_client_info": {
+          "package_name": "Moviles.dpapc02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763946230726-44ue2het6svuj06hl5r91brdkrt50743.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWb5Liywe21exKLYP6kufwsA4WypEdWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763946230726-44ue2het6svuj06hl5r91brdkrt50743.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
